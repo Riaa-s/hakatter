@@ -7,7 +7,7 @@ git branch
 ```
 
 ```bash
-git branch upstream/master -b [name]
+git checkout upstream/master -b [name]
 ```
 
 ```bash
